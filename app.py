@@ -69,4 +69,4 @@ if st.button("🔍 Screen Resume"):
             pass
 
 st.markdown("---")
-st.caption("Built with NLP + TF-IDF + Logistic Regression")
+st.caption("Built with NLP + TF-IDF + Logistic Regression (Python 3.11 Compatible)")
